@@ -5,8 +5,9 @@
 
 <!-- Animated Typing -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=3500&pause=1000&color=9F61FF&center=true&vCenter=true&width=800&lines=🚀+Welcome+to+My+Universe;💻+Code+Explorer+%7C+Tech+Enthusiast;🌌+Building+Futuristic+Projects;🔥+Always+Learning+and+Innovating" alt="Typing Animation">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=3500&pause=1000&color=9F61FF&center=true&vCenter=true&width=800&lines=%F0%9F%9A%80+Welcome+to+My+Universe;%F0%9F%92%BB+Code+Explorer+%7C+Tech+Enthusiast;%F0%9F%8C%8C+Building+Futuristic+Projects;%F0%9F%94%A5+Always+Learning+and+Innovating" alt="Typing Animation">
 </p>
+
 
 ---
 
@@ -22,8 +23,11 @@ I enjoy crafting **creative, scalable, and futuristic projects** that combine **
 
 ## 🛠️ Tech Arsenal
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,cplusplus,c,html,css,mysql,linux,git,blade,figma" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,c,html,css,mysql,linux,git,figma&cacheBust=1" />
+  <img src="https://cdn.simpleicons.org/cplusplus" width="48" height="48" />
+
 </p>
+
 
 ---
 
