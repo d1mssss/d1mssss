@@ -22,15 +22,15 @@ I enjoy crafting **creative, scalable, and futuristic projects** that combine **
 
 ## 🛠️ Tech Arsenal
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,php,mysql,react,nodejs,docker,linux,git" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,cplusplus,c,html,css,mysql,linux,git,blade,figma" />
 </p>
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="165px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="165px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=d1mssss&show_icons=true&theme=tokyonight&hide_border=true" height="165px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=d1mssss&layout=compact&theme=tokyonight&hide_border=true" height="165px"/>
 </p>
 
 ---
