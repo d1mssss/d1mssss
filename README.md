@@ -39,18 +39,11 @@ I enjoy crafting **creative, scalable, and futuristic projects** that combine **
 
 ---
 
-## 🚀 Projects & Creations
-- 🌌 **[Project 1](#)** — Description of your project
-- 🛰 **[Project 2](#)** — Description of your project
-- ⚡ **[Project 3](#)** — Description of your project
-
----
-
 ## 📫 Connect with Me
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-9F61FF?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://instagram.com/YOUR_INSTAGRAM"><img src="https://img.shields.io/badge/Instagram-9F61FF?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-9F61FF?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/Gede Dimas Putra Pratama"><img src="https://img.shields.io/badge/LinkedIn-9F61FF?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://instagram.com/dimsptra_7"><img src="https://img.shields.io/badge/Instagram-9F61FF?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="mailto:YOUR_datadimas2024@gmail.com"><img src="https://img.shields.io/badge/Email-9F61FF?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
